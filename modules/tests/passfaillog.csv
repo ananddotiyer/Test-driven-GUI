@@ -1,0 +1,2 @@
+test_path,test_url,test_type,executed_at,time_spent (sec),result
+"=HYPERLINK(""functional_tests\actuals\tvshows_page_recommended.csv"",""\functional_tests\tests_tvshows\tvshows_page_recommended"")",http://staging.dittotv.com/tvshows,dittotv,2015-05-06 15:43:55,0.241,FAIL
