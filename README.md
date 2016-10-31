@@ -1,4 +1,6 @@
-# Test-driven-GUITo create a new test folder, follow these steps
+# Test-driven-GUI
+
+To create a new test folder, follow these steps
 
 1. Goto modules\tests folder
 2. Create a new folder (say 'regression') that will contain all tests for that group.
