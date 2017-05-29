@@ -1,5 +1,7 @@
 # Test-driven-GUI
 
+GUI tests based on Test-driven-API.
+
 To create a new test folder, follow these steps
 
 1. Goto modules\tests folder
